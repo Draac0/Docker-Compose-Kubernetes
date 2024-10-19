@@ -11,7 +11,7 @@ docker --help
 
 ## Overview
 
-[1. Docker Images & Containers: The Core Building Blocks](1.%20Docker%20Images%20&%20Containers:%20The%20Core%20Building%20Block.md)
+[1. Docker Images & Containers: The Core Building Blocks](1.%20Docker%20Images%20&%20Containers%20-%20The%20Core%20Building%20Block.md)
 
 [2. Managing Data in Images & Containers](2.%20Managing%20Data%20in%20Images%20&%20Containers.md)
 
@@ -19,7 +19,7 @@ docker --help
 
 [4. Building Multi-Container Applications with Docker](4.%20Building%20Multi-Container%20Applications%20with%20Docker.md)
 
-[5. Docker Compose: Elegant Multi-Container Orchestration](5.%20Docker%20Compose:%20Elegant%20Multi-Container%20Orchestration.md)
+[5. Docker Compose: Elegant Multi-Container Orchestration](5.%20Docker%20Compose%20-%20Elegant%20Multi-Container%20Orchestration.md)
 
 [6. Utility Containers & Executing Commands In Container](6.%20Utility%20Containers%20&%20Executing%20Commands%20In%20Contain.md)
 
@@ -44,7 +44,4 @@ docker --help
 ## License
 Feel free to use, modify, and share this repository under the MIT License.
 
-<div style="display: flex; justify-content: space-between;">
-  <div> </div>
-  <a href="1.%20Docker%20Images%20&%20Containers:%20The%20Core%20Building%20Block.md" style="padding: 5px 10px; background-color: #007bff; color: white; text-decoration: none; border-radius: 5px;font-size: 12px">Next: Docker Images & Containers: The Core Building Blocks &raquo;</a>
-</div>
+[Next: Docker Images & Containers: The Core Building Blocks &raquo;](1.%20Docker%20Images%20&%20Containers%20-%20The%20Core%20Building%20Block.md)
